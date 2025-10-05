@@ -221,8 +221,8 @@ logo = (f"""\x1b[1;97m
                                                                        
 
 AUTHOR   : RBXRAJA & RIJWAN BAGWAN xD-RAZA TURK 🌝
-GITHUB   : Rizwanali444
-BESTU    : ITZ CHUZA 🐥 RAJA  ❤️      
+GITHUB   : Raja786
+BESTU    : ITZ RAZA 🐥 RAJA  ❤️      
 VERSION  : Gitft
 DATE     : {formatted_date}
 TIME     : {formatted_time}
